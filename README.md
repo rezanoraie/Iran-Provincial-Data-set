@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="b9ybyxDBzTfwx5sQqXCqANGLOyjU9InJEi-kH74KJAA" />
 Hello,  
 Here you could find Iran Provinces Tax Data and GDP  
 from 1391-1394 (will be updated up to 1400)  
