@@ -1,5 +1,5 @@
 Hello,  
-Here you could find Iran Provinces Tax Data (Corporations Tax, Income Tax, Wealth Tax and VAT) and GDP  
+Here you could find Iran Provinces Tax Data (Include Corporations Tax, Income Tax, Wealth Tax and VAT), GDP and Inflation (also CPI)
 from 1391-1398  for each Province
   
   
@@ -8,7 +8,7 @@ https://taxresearch.ir/page.php?slct_pg_id=32&sid=1&slc_lang=fa
 https://salnameh.sci.org.ir/AllUser/DirectoryTreeComplete.aspx  
 https://stat.roostanet.com/  
   
-  
+  CPI
 Everybody could use these data for free, offcourse with Copyrights and citation to this web page. Here is APA 7th Edition Citation for this page:
 
 Rezanoraie. (n.d.). GitHub - rezanoraie/Iran-Provinces-Tax-Data. GitHub. https://github.com/rezanoraie/Iran-Provinces-Tax-Data
