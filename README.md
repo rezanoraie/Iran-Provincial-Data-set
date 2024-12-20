@@ -1,6 +1,7 @@
 Hello,  
 Here you could find Iran Provinces Tax Data (Include Corporations Tax, Income Tax, Wealth Tax and VAT), GDP and Inflation (also CPI)
 from 1391-1399  for each Province
+NEVER MIND USE "Paste as Value" FROM THESE DATA ON YOUR PROJECT BECUASE THERE IS FORMULAS IN EXCEL FILE
   
   
 I only used official sources below to provide these data:  
@@ -19,6 +20,7 @@ Good luck
 
 
 دراینجا شما میتوانید داده های مالیاتی استان های ایران و همپنین تولید ناخالص داخلی آن ها را پیدا کنید. داده های مالیاتی شامل مالیات بر شرکت ها، مالیات بر درآمد، مالیات بر ثروت و مالیات بر ارزش افزوده است. بازه زمانی داده ها از 1391 تا 1399 بوده و هر استان به طور مجزا آورده شده است.
+هرگز فراموش نکنید هنگام کپی کردن این داده ها در اکسل خود به صورت "Paste as Value" کپی-پیست کنید، زیرا این دیتا ها حاوی فرمول می باشند.
 
 
 در این مجموعه داده فقط از منابع رسمی زیر استفاده شده است:
