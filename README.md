@@ -1,5 +1,5 @@
 Hello,  
-Here you could find Iran Provinces Tax Data (Include Corporations Tax, Income Tax, Wealth Tax and VAT), GDP and Inflation (also CPI)
+Here you could find Iran Provinces Tax Data (Include Corporations Tax, Income Tax, Wealth Tax and VAT), GDP and Inflation
 from 1391-1399  for each Province
 NEVER MIND USE "Paste as Value" FROM THESE DATA ON YOUR PROJECT BECUASE THERE IS FORMULAS IN EXCEL FILE
   
